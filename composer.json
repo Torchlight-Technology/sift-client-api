@@ -1,0 +1,7 @@
+{
+    "name": "sift/sift-client-api",
+    "description": "Sift Logic PHP Client",
+    "autoload": {
+        "classmap": ["lib"]
+    }
+}
