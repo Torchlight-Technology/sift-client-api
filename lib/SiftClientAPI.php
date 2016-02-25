@@ -1,6 +1,6 @@
 <?php
 
-namespace siftlogic;
+namespace sift;
 
 class SiftClientAPI
 {
