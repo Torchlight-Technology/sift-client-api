@@ -7,7 +7,7 @@ composer require sift/sift-client-api:"dev-master"
 Usage in your project
 
 ```php
-use sift\SiftClientAPI
+use sift\SiftClientAPI;
 
 $client = new SiftClientAPI;
 
