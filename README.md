@@ -1,7 +1,7 @@
 Install with composer
 
 ```
-composer require sift/sift-client-api:"dev-master"
+composer require sift/sift-client-api:"~1.0"
 ```
 
 Usage in your project
